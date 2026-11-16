@@ -1,0 +1,18 @@
+{
+    "nama_dataset": "Data Cuaca Denpasar Bali",
+    "sumber_data": "Open-Meteo",
+    "url_api": "https://archive-api.open-meteo.com/v1/archive?latitude=-8.65&longitude=115.22&start_date=2026-11-01&end_date=2026-11-07&hourly=temperature_2m&hourly=relative_humidity_2m&hourly=precipitation&hourly=wind_speed_10m&hourly=cloud_cover&hourly=weather_code&timezone=Asia%2FSingapore",
+    "publisher": "Open-Meteo",
+    "metode": "API menggunakan Python requests",
+    "waktu_akses": "2026-11-16T19:41:32.075732+08:00",
+    "lokasi": "Denpasar, Bali",
+    "latitude": -8.65,
+    "longitude": 115.22,
+    "timezone": "Asia/Singapore",
+    "tanggal_mulai": "2026-11-01",
+    "tanggal_selesai": "2026-11-07",
+    "jumlah_record": 168,
+    "jumlah_kolom": 8,
+    "format_file": "CSV",
+    "hash_md5": "c668c9e8ca7f4796ccb3c769e4ac2871"
+}
